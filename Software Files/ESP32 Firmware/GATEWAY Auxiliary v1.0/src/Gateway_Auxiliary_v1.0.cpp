@@ -47,8 +47,8 @@ void displayui(void *pvParameters);
 void tempdisp(void *pvParameters);
 
 /* InfluxDB Connection Parameters */
-#define WIFI_SSID "MAIN"
-#define WIFI_PASSWORD "2e9fc16a"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 #define INFLUXDB_URL "https://us-west-2-1.aws.cloud2.influxdata.com"
 // #define INFLUXDB_TOKEN "YdMA18IpTRQhPhF7AEeaMAZy-pZpEPqTCUNu_qUsmEL_O1T1UxwaWuf2SURzfXBaLG4yOFyfjtNu-AVtDIDVDw==" test
 #define INFLUXDB_TOKEN "qXo1pHPocwaFZ1ZSSlDllihJ6owI5WyU7dgHJd9o9q5TnKgLjpAYIToSQPaH4OJxc87ZG5DV55_I_0LGOJMB6A=="

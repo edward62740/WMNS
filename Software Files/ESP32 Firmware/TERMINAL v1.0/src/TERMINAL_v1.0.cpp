@@ -41,15 +41,13 @@ extern "C"
 #endif
 
 uint8_t temprature_sens_read();
-#define WIFI_SSID "MAIN"
-#define WIFI_PASSWORD "2e9fc16a"
 String timeStr = "";
 long txn = 0;
 float temp = 0;
 
 /* InfluxDB Connection Parameters */
-#define WIFI_SSID "MAIN"
-#define WIFI_PASSWORD "2e9fc16a"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 #define INFLUXDB_URL "https://us-west-2-1.aws.cloud2.influxdata.com"
 #define INFLUXDB_TOKEN "qXo1pHPocwaFZ1ZSSlDllihJ6owI5WyU7dgHJd9o9q5TnKgLjpAYIToSQPaH4OJxc87ZG5DV55_I_0LGOJMB6A=="
 #define INFLUXDB_ORG "theprovidentinquisition@gmail.com"
