@@ -1,0 +1,1802 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+                              _build/nrf52832_xxaa/mesh.c.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+                              _build/nrf52832_xxaa/mesh.c.o (sprintf)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+                              _build/nrf52832_xxaa/mesh.c.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memchr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (memchr)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o) (__global_locale)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o) (__ascii_mbtowc)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strcmp.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o) (strcmp)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o) (__ascii_wctomb)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-ctype_.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o) (_ctype_)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_exit)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+                              _build/nrf52832_xxaa/veml6030.c.o (__aeabi_dmul)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              _build/nrf52832_xxaa/veml6030.c.o (__aeabi_d2f)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+errno               0x4               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/main.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/main.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/main.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/clocks.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/clocks.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/clocks.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/twi.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/twi.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/twi.c.o
+ .text.twi_stop
+                0x00000000       0x2c _build/nrf52832_xxaa/twi.c.o
+ .text.twi_restart
+                0x00000000       0x44 _build/nrf52832_xxaa/twi.c.o
+ .text.twi_scan
+                0x00000000       0x3c _build/nrf52832_xxaa/twi.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/mesh.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/mesh.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/mesh.c.o
+ .text.window_get_payload
+                0x00000000        0x8 _build/nrf52832_xxaa/mesh.c.o
+ .text.is_matching_msg_ack
+                0x00000000       0x24 _build/nrf52832_xxaa/mesh.c.o
+ .text.window_remove_payload
+                0x00000000       0x5c _build/nrf52832_xxaa/mesh.c.o
+ .text.window_check_retransmit
+                0x00000000       0x70 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_channel
+                0x00000000        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_get_channel
+                0x00000000       0x10 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_set_crc
+                0x00000000       0x4c _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_get_crc
+                0x00000000       0x10 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_pre_tx
+                0x00000000        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_post_tx
+                0x00000000        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_message_2_esb_payload
+                0x00000000       0x54 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_esb_2_message_payload
+                0x00000000       0x54 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_rx_handler
+                0x00000000       0x7c _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_consume_rx_messages
+                0x00000000       0xe4 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_tx_raw
+                0x00000000       0x30 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_tx_message
+                0x00000000       0x6c _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_tx_ack
+                0x00000000       0x74 _build/nrf52832_xxaa/mesh.c.o
+ .text.alive_add_rtx_info
+                0x00000000       0x34 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_forward_message
+                0x00000000       0xb4 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_tx_pid
+                0x00000000       0x44 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_response_data
+                0x00000000       0x6c _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_bcast_data
+                0x00000000       0x50 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_bcast_text
+                0x00000000       0x68 _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_alive
+                0x00000000       0xd4 _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_env   0x00000000      0x118 _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_iaq   0x00000000      0x15c _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_motion
+                0x00000000      0x13c _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_range
+                0x00000000       0x58 _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_co2   0x00000000      0x118 _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_battery
+                0x00000000       0x3c _build/nrf52832_xxaa/mesh.c.o
+ .text.rx_text  0x00000000        0xc _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_parse
+                0x00000000      0x1c8 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_parse_raw
+                0x00000000       0x98 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_parse_bytes
+                0x00000000       0x7c _build/nrf52832_xxaa/mesh.c.o
+ .text.cmd_parse_response
+                0x00000000       0x8c _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_execute_cmd
+                0x00000000      0x240 _build/nrf52832_xxaa/mesh.c.o
+ .text.mesh_text_request
+                0x00000000       0xac _build/nrf52832_xxaa/mesh.c.o
+ .bss.rx_msg    0x00000000        0xc _build/nrf52832_xxaa/mesh.c.o
+ .bss.rx_payload
+                0x00000000       0x87 _build/nrf52832_xxaa/mesh.c.o
+ .bss.tx_payload_window
+                0x00000000      0x128 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.cmd_parse_response.str1.4
+                0x00000000       0xc0 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.mesh_parse.str1.4
+                0x00000000       0x4c _build/nrf52832_xxaa/mesh.c.o
+ .rodata.mesh_parse_bytes.str1.4
+                0x00000000       0x2f _build/nrf52832_xxaa/mesh.c.o
+ .rodata.mesh_parse_raw.str1.4
+                0x00000000       0x56 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.mesh_text_request.str1.4
+                0x00000000       0x1d _build/nrf52832_xxaa/mesh.c.o
+ .rodata.pid_name
+                0x00000000        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_alive.str1.4
+                0x00000000       0x41 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_battery.str1.4
+                0x00000000       0x24 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_co2.str1.4
+                0x00000000       0x2b _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_env.str1.4
+                0x00000000       0x5d _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_iaq.str1.4
+                0x00000000       0x3b _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_motion.str1.4
+                0x00000000       0x67 _build/nrf52832_xxaa/mesh.c.o
+ .rodata.rx_range.str1.4
+                0x00000000       0x43 _build/nrf52832_xxaa/mesh.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/battery.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/battery.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/battery.c.o
+ .text.start_conversion
+                0x00000000       0x30 _build/nrf52832_xxaa/battery.c.o
+ .text.get_battery
+                0x00000000       0x48 _build/nrf52832_xxaa/battery.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/si1133.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/si1133.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_calcEvalPoly.constprop.9
+                0x00000000       0xc4 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_paramSet.part.1
+                0x00000000       0xe8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_sendCmd
+                0x00000000      0x1a0 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_registerRead
+                0x00000000       0x44 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_registerWrite
+                0x00000000       0x34 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_registerBlockWrite
+                0x00000000       0x48 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_registerBlockRead
+                0x00000000       0x48 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_reset
+                0x00000000       0x54 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_resetCmdCtr
+                0x00000000       0xcc _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_measurementForce
+                0x00000000        0x8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_measurementStart
+                0x00000000        0x8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_paramRead
+                0x00000000       0x5c _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_paramSet
+                0x00000000       0x70 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_measurementPause
+                0x00000000        0x8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_init
+                0x00000000      0x550 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_deInit
+                0x00000000       0xc8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_readMeasurement
+                0x00000000       0xc4 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_getUv
+                0x00000000        0x4 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_getLux
+                0x00000000      0x33c _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_startMeasurement
+                0x00000000        0x8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_getHardwareID
+                0x00000000       0x44 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_getMeasurement
+                0x00000000       0xa8 _build/nrf52832_xxaa/si1133.c.o
+ .text.SI1133_getIrqStatus
+                0x00000000       0x44 _build/nrf52832_xxaa/si1133.c.o
+ .bss.p_twi     0x00000000        0x4 _build/nrf52832_xxaa/si1133.c.o
+ .data.lk       0x00000000       0x34 _build/nrf52832_xxaa/si1133.c.o
+ .data.uk       0x00000000        0x8 _build/nrf52832_xxaa/si1133.c.o
+ .rodata.delay_bytecode.7762
+                0x00000000        0x6 _build/nrf52832_xxaa/si1133.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/si1133.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/si1133.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/veml6030.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/veml6030.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_write_reg
+                0x00000000       0x34 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_read_reg
+                0x00000000       0x4c _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_init
+                0x00000000       0x38 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_power_on
+                0x00000000       0x70 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_shutdown
+                0x00000000       0x70 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_set_als_integration_time
+                0x00000000       0x7c _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_get_als_integration_time
+                0x00000000       0x50 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_set_als_gain
+                0x00000000       0x68 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_get_als_gain
+                0x00000000       0x48 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_read_als
+                0x00000000       0x88 _build/nrf52832_xxaa/veml6030.c.o
+ .text.veml6030_read_white
+                0x00000000       0x4c _build/nrf52832_xxaa/veml6030.c.o
+ .bss.p_twi     0x00000000        0x4 _build/nrf52832_xxaa/veml6030.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/veml6030.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/veml6030.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/boards.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/boards.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/boards.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/boards.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/boards.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/app_error.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/app_error.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/app_error.c.o
+ .text.app_error_save_and_stop
+                0x00000000       0x64 _build/nrf52832_xxaa/app_error.c.o
+ .bss.m_error_data.7622
+                0x00000000       0x20 _build/nrf52832_xxaa/app_error.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .text.app_error_handler
+                0x00000000       0x1c _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/app_error_weak.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/app_error_weak.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/app_error_weak.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/app_util_platform.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/app_util_platform.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/app_util_platform.c.o
+ .text.app_util_disable_irq
+                0x00000000       0x10 _build/nrf52832_xxaa/app_util_platform.c.o
+ .text.app_util_enable_irq
+                0x00000000       0x14 _build/nrf52832_xxaa/app_util_platform.c.o
+ .text.privilege_level_get
+                0x00000000       0x1c _build/nrf52832_xxaa/app_util_platform.c.o
+ .text.current_int_priority_get
+                0x00000000       0x3c _build/nrf52832_xxaa/app_util_platform.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_assert.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_assert.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_assert.c.o
+ .text.assert_nrf_callback
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_assert.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_assert.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_assert.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_store
+                0x00000000       0x18 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_store
+                0x00000000       0x18 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_or
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_or
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_and
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_and
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_xor
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_xor
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_add
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_add
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_sub
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_sub
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_cmp_exch
+                0x00000000       0x2c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_fetch_sub_hs
+                0x00000000       0x20 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_u32_sub_hs
+                0x00000000       0x20 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_flag_set_fetch
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_flag_set
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_flag_clear_fetch
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text.nrf_atomic_flag_clear
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_atomic.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .text.nrf_balloc_init
+                0x00000000       0x38 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .text.nrf_balloc_alloc
+                0x00000000       0x4c _build/nrf52832_xxaa/nrf_balloc.c.o
+ .text.nrf_balloc_free
+                0x00000000       0x2c _build/nrf52832_xxaa/nrf_balloc.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_pool_init
+                0x00000000        0x4 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_alloc
+                0x00000000       0x90 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_free
+                0x00000000       0x34 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_get
+                0x00000000        0x8 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_put
+                0x00000000       0x44 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_write
+                0x00000000       0x5c _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text.nrf_memobj_read
+                0x00000000       0x5c _build/nrf52832_xxaa/nrf_memobj.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_default_backends.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_default_backends.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_default_backends.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_default_backends.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_default_backends.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_backend_serial.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_backend_serial.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_backend_serial.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_backend_serial.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_backend_serial.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_backend_uart.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_backend_uart.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_log_backend_uart.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_backend_uart.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_backend_uart.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_section_iter.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_section_iter.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_section_iter.c.o
+ .text.nrf_section_iter_next
+                0x00000000       0x18 _build/nrf52832_xxaa/nrf_section_iter.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .text.nrf_pwr_mgmt_feed
+                0x00000000        0x4 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .text.nrf_pwr_mgmt_shutdown
+                0x00000000       0xa4 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .bss.m_pwr_mgmt_evt
+                0x00000000        0x1 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .text.nrf_strerror_get
+                0x00000000       0x6c _build/nrf52832_xxaa/nrf_strerror.c.o
+ .text.nrf_strerror_find
+                0x00000000       0x60 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .rodata.m_unknown_str
+                0x00000000       0x13 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .rodata.nrf_strerror_array
+                0x00000000      0x118 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .rodata.str1.4
+                0x00000000      0x3bd _build/nrf52832_xxaa/nrf_strerror.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrf_strerror.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_esb.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.on_radio_disabled_rx
+                0x00000000      0x168 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_suspend
+                0x00000000       0x24 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_disable
+                0x00000000       0x58 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_is_idle
+                0x00000000       0x10 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_read_rx_payload
+                0x00000000       0x74 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_start_tx
+                0x00000000       0xc4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_start_rx
+                0x00000000       0x80 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_stop_rx
+                0x00000000       0x4c _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_pop_tx
+                0x00000000       0x4c _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_flush_rx
+                0x00000000       0x34 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_set_address_length
+                0x00000000       0xe4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_update_prefix
+                0x00000000      0x154 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_enable_pipes
+                0x00000000       0xfc _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_get_rf_channel
+                0x00000000       0x14 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_set_tx_power
+                0x00000000       0x2c _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_set_retransmit_delay
+                0x00000000       0x28 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_set_retransmit_count
+                0x00000000       0x1c _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_set_bitrate
+                0x00000000       0x54 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.nrf_esb_reuse_pid
+                0x00000000       0x18 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_retransmits_remaining
+                0x00000000        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_rx_payload_buffer
+                0x00000000       0x84 _build/nrf52832_xxaa/nrf_esb.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_init_check
+                0x00000000        0xc _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_uninit
+                0x00000000       0x10 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_lfclk_release
+                0x00000000       0x28 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_calibration_start
+                0x00000000        0x4 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_calibration_abort
+                0x00000000        0x4 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_is_calibrating
+                0x00000000        0x4 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/system_nrf52.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/system_nrf52.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/system_nrf52.c.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x10 _build/nrf52832_xxaa/system_nrf52.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_uart.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_uart.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_uart.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrfx_uart.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrfx_uart.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .ARM.attributes
+                0x00000000       0x39 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_uninit
+                0x00000000       0xac _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_disable
+                0x00000000       0x3c _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_is_busy
+                0x00000000       0x14 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_xfer
+                0x00000000      0x2b0 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_tx
+                0x00000000      0x184 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_rx
+                0x00000000      0x14c _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_start_task_get
+                0x00000000       0x10 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text.nrfx_twim_stopped_event_get
+                0x00000000        0x8 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_disable
+                0x00000000       0x18 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_uninit
+                0x00000000       0x40 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_lfclk_stop
+                0x00000000       0x18 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_calibration_start
+                0x00000000        0x4 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_is_calibrating
+                0x00000000        0x4 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_calibration_timer_start
+                0x00000000       0x38 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text.nrfx_clock_calibration_timer_stop
+                0x00000000       0x18 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_uninit
+                0x00000000       0x48 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_disable
+                0x00000000       0x18 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_cc_disable
+                0x00000000       0x48 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_tick_disable
+                0x00000000       0x10 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_overflow_enable
+                0x00000000       0x2c _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_overflow_disable
+                0x00000000       0x10 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text.nrfx_rtc_max_ticks_get
+                0x00000000       0x24 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_uninit
+                0x00000000      0x2a8 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_channel_uninit
+                0x00000000       0x88 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_sample_task_get
+                0x00000000       0x20 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_sample_convert
+                0x00000000      0x1b0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_calibrate_offset
+                0x00000000       0x44 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_is_busy
+                0x00000000       0x10 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_abort
+                0x00000000       0x64 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_limits_set
+                0x00000000       0x7c _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_prs.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_prs.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_prs.c.o
+ .text.nrfx_prs_release
+                0x00000000       0x18 _build/nrf52832_xxaa/nrfx_prs.c.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x44 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .text.sprintf  0x00000000       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00000000       0x84 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sprintf.o)
+ .text          0x00000000       0xdc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .text._svfprintf_r
+                0x00000000     0x1494 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .rodata._svfprintf_r.str1.4
+                0x00000000       0x42 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .rodata.blanks.8346
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .rodata.zeroes.8347
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .text.quorem   0x00000000      0x128 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x00000000      0xe4c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .rodata._dtoa_r.str1.4
+                0x00000000       0x12 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000000       0x88 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .text._localeconv_r
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .debug_frame   0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-localeconv.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x560 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mallocr.o)
+ .text          0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text._Balloc  0x00000000       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text._Bfree   0x00000000       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__multadd
+                0x00000000       0x80 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x9c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__hi0bits
+                0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__lo0bits
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__i2b    0x00000000       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__multiply
+                0x00000000      0x124 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__pow5mult
+                0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__lshift
+                0x00000000       0xa4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__mcmp   0x00000000       0x38 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__mdiff  0x00000000      0x108 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x54 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xc4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__d2b    0x00000000       0xbc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_bigtens
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tens
+                0x00000000       0xc8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .rodata.p05.7178
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000000      0x25c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000      0xa54 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .rodata._svfiprintf_r.str1.4
+                0x00000000       0x2f c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.8326
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.8327
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00000000       0x78 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+ .text._calloc_r
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .text._free_r  0x00000000      0x1cc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr_l
+                0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .data.__global_locale
+                0x00000000      0x16c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .rodata._setlocale_r.str1.4
+                0x00000000        0xd c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .rodata.str1.4
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .debug_frame   0x00000000       0x6c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-locale.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .text.__ascii_mbtowc
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00000000       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-mbtowc_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+ .text.memmove  0x00000000       0xc8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x00000000      0x34c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000000       0x68 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-reent.o)
+ .text          0x00000000      0x2dc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x68 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .text.__ascii_wctomb
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00000000       0x3c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-wctomb_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-ctype_.o)
+ .rodata._ctype_
+                0x00000000      0x101 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-ctype_.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .bss.heap_end.5239
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .text          0x00000000      0x370 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .text          0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x2dc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x0007f000         xr
+RAM              0x20000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x00000000     0x2eb0
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x200 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+                0x00000000                __isr_vector
+ *(.text*)
+ .text          0x00000200       0x6c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x0000026c       0x74 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x0000026c                _start
+                0x0000026c                _mainCRTStartup
+ .text.app_mesh_handler
+                0x000002e0        0x4 _build/nrf52832_xxaa/main.c.o
+                0x000002e0                app_mesh_handler
+ .text.app_rtc_handler
+                0x000002e4      0x188 _build/nrf52832_xxaa/main.c.o
+                0x000002e4                app_rtc_handler
+ .text.startup.main
+                0x0000046c       0x78 _build/nrf52832_xxaa/main.c.o
+                0x0000046c                main
+ .text.rtc_handler
+                0x000004e4       0x38 _build/nrf52832_xxaa/clocks.c.o
+                0x000004e4                rtc_handler
+ .text.clocks_start
+                0x0000051c       0x20 _build/nrf52832_xxaa/clocks.c.o
+                0x0000051c                clocks_start
+ .text.clocks_restart
+                0x0000053c       0x14 _build/nrf52832_xxaa/clocks.c.o
+                0x0000053c                clocks_restart
+ .text.clocks_stop
+                0x00000550        0x4 _build/nrf52832_xxaa/clocks.c.o
+                0x00000550                clocks_stop
+ .text.rtc_config
+                0x00000554       0x74 _build/nrf52832_xxaa/clocks.c.o
+                0x00000554                rtc_config
+ .text.twi_init
+                0x000005c8       0x40 _build/nrf52832_xxaa/twi.c.o
+                0x000005c8                twi_init
+ .text.nrf_esb_event_handler
+                0x00000608       0x48 _build/nrf52832_xxaa/mesh.c.o
+                0x00000608                nrf_esb_event_handler
+ .text.mesh_init
+                0x00000650       0xa8 _build/nrf52832_xxaa/mesh.c.o
+                0x00000650                mesh_init
+ .text.mesh_wait_tx
+                0x000006f8       0x10 _build/nrf52832_xxaa/mesh.c.o
+                0x000006f8                mesh_wait_tx
+ .text.mesh_tx_reset
+                0x00000708       0x44 _build/nrf52832_xxaa/mesh.c.o
+                0x00000708                mesh_tx_reset
+ .text.mesh_ttl_set
+                0x0000074c        0xc _build/nrf52832_xxaa/mesh.c.o
+                0x0000074c                mesh_ttl_set
+ .text.mesh_tx_alive
+                0x00000758       0x88 _build/nrf52832_xxaa/mesh.c.o
+                0x00000758                mesh_tx_alive
+ .text.mesh_tx_env
+                0x000007e0       0xac _build/nrf52832_xxaa/mesh.c.o
+                0x000007e0                mesh_tx_env
+ .text.mesh_tx_motion
+                0x0000088c       0xf0 _build/nrf52832_xxaa/mesh.c.o
+                0x0000088c                mesh_tx_motion
+ .text.mesh_tx_iaq
+                0x0000097c       0xc4 _build/nrf52832_xxaa/mesh.c.o
+                0x0000097c                mesh_tx_iaq
+ .text.mesh_tx_range
+                0x00000a40       0x94 _build/nrf52832_xxaa/mesh.c.o
+                0x00000a40                mesh_tx_range
+ .text.mesh_tx_co2
+                0x00000ad4       0xb4 _build/nrf52832_xxaa/mesh.c.o
+                0x00000ad4                mesh_tx_co2
+ .text.mesh_tx_battery
+                0x00000b88       0x60 _build/nrf52832_xxaa/mesh.c.o
+                0x00000b88                mesh_tx_battery
+ .text.saadc_event_handler
+                0x00000be8       0x38 _build/nrf52832_xxaa/battery.c.o
+ .text.battery_init
+                0x00000c20       0x68 _build/nrf52832_xxaa/battery.c.o
+                0x00000c20                battery_init
+ .text.app_error_handler_bare
+                0x00000c88       0x20 _build/nrf52832_xxaa/app_error.c.o
+                0x00000c88                app_error_handler_bare
+ .text.app_error_fault_handler
+                0x00000ca8       0x34 _build/nrf52832_xxaa/app_error_weak.c.o
+                0x00000ca8                app_error_fault_handler
+ .text.app_util_critical_region_enter
+                0x00000cdc       0x10 _build/nrf52832_xxaa/app_util_platform.c.o
+                0x00000cdc                app_util_critical_region_enter
+ .text.app_util_critical_region_exit
+                0x00000cec       0x14 _build/nrf52832_xxaa/app_util_platform.c.o
+                0x00000cec                app_util_critical_region_exit
+ .text.nrf_section_iter_init
+                0x00000d00       0x14 _build/nrf52832_xxaa/nrf_section_iter.c.o
+                0x00000d00                nrf_section_iter_init
+ .text.nrf_pwr_mgmt_init
+                0x00000d14       0x2c _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+                0x00000d14                nrf_pwr_mgmt_init
+ .text.nrf_pwr_mgmt_run
+                0x00000d40       0x34 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+                0x00000d40                nrf_pwr_mgmt_run
+ .text.apply_address_workarounds
+                0x00000d74       0xec _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.on_radio_disabled_tx_noack
+                0x00000e60       0xfc _build/nrf52832_xxaa/nrf_esb.c.o
+ .text.RADIO_IRQHandler
+                0x00000f5c       0x54 _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00000f5c                RADIO_IRQHandler
+ .text.nrf_esb_init
+                0x00000fb0      0x290 _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00000fb0                nrf_esb_init
+ .text.SWI0_EGU0_IRQHandler
+                0x00001240       0x7c _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00001240                SWI0_EGU0_IRQHandler
+ .text.nrf_esb_write_payload
+                0x000012bc      0x140 _build/nrf52832_xxaa/nrf_esb.c.o
+                0x000012bc                nrf_esb_write_payload
+ .text.nrf_esb_flush_tx
+                0x000013fc       0x2c _build/nrf52832_xxaa/nrf_esb.c.o
+                0x000013fc                nrf_esb_flush_tx
+ .text.nrf_esb_set_base_address_0
+                0x00001428      0x14c _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00001428                nrf_esb_set_base_address_0
+ .text.nrf_esb_set_base_address_1
+                0x00001574      0x18c _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00001574                nrf_esb_set_base_address_1
+ .text.nrf_esb_set_prefixes
+                0x00001700       0xf8 _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00001700                nrf_esb_set_prefixes
+ .text.nrf_esb_set_rf_channel
+                0x000017f8       0x28 _build/nrf52832_xxaa/nrf_esb.c.o
+                0x000017f8                nrf_esb_set_rf_channel
+ .text.TIMER3_IRQHandler
+                0x00001820       0x2c _build/nrf52832_xxaa/nrf_esb.c.o
+                0x00001820                TIMER3_IRQHandler
+ .text.twim_evt_handler
+                0x0000184c       0x48 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .text.nrf_drv_twi_init
+                0x00001894       0xfc _build/nrf52832_xxaa/nrf_drv_twi.c.o
+                0x00001894                nrf_drv_twi_init
+ .text.clock_irq_handler
+                0x00001990       0x40 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .text.nrf_drv_clock_init
+                0x000019d0       0x38 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+                0x000019d0                nrf_drv_clock_init
+ .text.nrf_drv_clock_lfclk_request
+                0x00001a08       0x5c _build/nrf52832_xxaa/nrf_drv_clock.c.o
+                0x00001a08                nrf_drv_clock_lfclk_request
+ .text.nrf_drv_clock_lfclk_is_running
+                0x00001a64       0x10 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+                0x00001a64                nrf_drv_clock_lfclk_is_running
+ .text.nrf_drv_clock_hfclk_request
+                0x00001a74       0x5c _build/nrf52832_xxaa/nrf_drv_clock.c.o
+                0x00001a74                nrf_drv_clock_hfclk_request
+ .text.nrf_drv_clock_hfclk_release
+                0x00001ad0       0x28 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+                0x00001ad0                nrf_drv_clock_hfclk_release
+ .text.nrf_drv_clock_hfclk_is_running
+                0x00001af8       0x18 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+                0x00001af8                nrf_drv_clock_hfclk_is_running
+ .text.SystemInit
+                0x00001b10      0x3cc _build/nrf52832_xxaa/system_nrf52.c.o
+                0x00001b10                SystemInit
+ .text          0x00001edc       0x3c _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+                0x00001edc                Reset_Handler
+                0x00001f04                NMI_Handler
+                0x00001f06                HardFault_Handler
+                0x00001f08                MemoryManagement_Handler
+                0x00001f0a                BusFault_Handler
+                0x00001f0c                UsageFault_Handler
+                0x00001f0e                SVC_Handler
+                0x00001f10                DebugMon_Handler
+                0x00001f12                PendSV_Handler
+                0x00001f14                SysTick_Handler
+                0x00001f16                TEMP_IRQHandler
+                0x00001f16                QDEC_IRQHandler
+                0x00001f16                FPU_IRQHandler
+                0x00001f16                PDM_IRQHandler
+                0x00001f16                TIMER4_IRQHandler
+                0x00001f16                I2S_IRQHandler
+                0x00001f16                SWI4_EGU4_IRQHandler
+                0x00001f16                TIMER0_IRQHandler
+                0x00001f16                SWI2_EGU2_IRQHandler
+                0x00001f16                TIMER1_IRQHandler
+                0x00001f16                PWM1_IRQHandler
+                0x00001f16                ECB_IRQHandler
+                0x00001f16                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x00001f16                Default_Handler
+                0x00001f16                CCM_AAR_IRQHandler
+                0x00001f16                WDT_IRQHandler
+                0x00001f16                GPIOTE_IRQHandler
+                0x00001f16                SWI5_EGU5_IRQHandler
+                0x00001f16                RNG_IRQHandler
+                0x00001f16                RTC2_IRQHandler
+                0x00001f16                PWM0_IRQHandler
+                0x00001f16                SWI3_EGU3_IRQHandler
+                0x00001f16                RTC1_IRQHandler
+                0x00001f16                SWI1_EGU1_IRQHandler
+                0x00001f16                SPIM2_SPIS2_SPI2_IRQHandler
+                0x00001f16                NFCT_IRQHandler
+                0x00001f16                PWM2_IRQHandler
+                0x00001f16                MWU_IRQHandler
+                0x00001f16                TIMER2_IRQHandler
+                0x00001f16                COMP_LPCOMP_IRQHandler
+ .text.SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x00001f18      0x17c _build/nrf52832_xxaa/nrfx_twim.c.o
+                0x00001f18                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+ .text.nrfx_twim_init
+                0x00002094      0x108 _build/nrf52832_xxaa/nrfx_twim.c.o
+                0x00002094                nrfx_twim_init
+ .text.nrfx_twim_enable
+                0x0000219c       0x20 _build/nrf52832_xxaa/nrfx_twim.c.o
+                0x0000219c                nrfx_twim_enable
+ .text.nrfx_clock_init
+                0x000021bc       0x1c _build/nrf52832_xxaa/nrfx_clock.c.o
+                0x000021bc                nrfx_clock_init
+ .text.nrfx_clock_enable
+                0x000021d8       0x28 _build/nrf52832_xxaa/nrfx_clock.c.o
+                0x000021d8                nrfx_clock_enable
+ .text.nrfx_clock_lfclk_start
+                0x00002200       0x60 _build/nrf52832_xxaa/nrfx_clock.c.o
+                0x00002200                nrfx_clock_lfclk_start
+ .text.nrfx_clock_hfclk_start
+                0x00002260       0x24 _build/nrf52832_xxaa/nrfx_clock.c.o
+                0x00002260                nrfx_clock_hfclk_start
+ .text.nrfx_clock_hfclk_stop
+                0x00002284       0x28 _build/nrf52832_xxaa/nrfx_clock.c.o
+                0x00002284                nrfx_clock_hfclk_stop
+ .text.POWER_CLOCK_IRQHandler
+                0x000022ac       0x60 _build/nrf52832_xxaa/nrfx_clock.c.o
+                0x000022ac                POWER_CLOCK_IRQHandler
+ .text.nrfx_rtc_init
+                0x0000230c       0x90 _build/nrf52832_xxaa/nrfx_rtc.c.o
+                0x0000230c                nrfx_rtc_init
+ .text.nrfx_rtc_enable
+                0x0000239c       0x18 _build/nrf52832_xxaa/nrfx_rtc.c.o
+                0x0000239c                nrfx_rtc_enable
+ .text.nrfx_rtc_cc_set
+                0x000023b4       0x94 _build/nrf52832_xxaa/nrfx_rtc.c.o
+                0x000023b4                nrfx_rtc_cc_set
+ .text.nrfx_rtc_tick_enable
+                0x00002448       0x2c _build/nrf52832_xxaa/nrfx_rtc.c.o
+                0x00002448                nrfx_rtc_tick_enable
+ .text.RTC0_IRQHandler
+                0x00002474      0x104 _build/nrf52832_xxaa/nrfx_rtc.c.o
+                0x00002474                RTC0_IRQHandler
+ .text.SAADC_IRQHandler
+                0x00002578      0x1c4 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x00002578                SAADC_IRQHandler
+ .text.nrfx_saadc_init
+                0x0000273c       0x9c _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x0000273c                nrfx_saadc_init
+ .text.nrfx_saadc_channel_init
+                0x000027d8       0xd4 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x000027d8                nrfx_saadc_channel_init
+ .text.nrfx_saadc_buffer_convert
+                0x000028ac       0xc0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x000028ac                nrfx_saadc_buffer_convert
+ .text.nrfx_saadc_sample
+                0x0000296c       0x30 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x0000296c                nrfx_saadc_sample
+ .text.UARTE0_UART0_IRQHandler
+                0x0000299c        0xc _build/nrf52832_xxaa/nrfx_prs.c.o
+                0x0000299c                UARTE0_UART0_IRQHandler
+ .text.nrfx_prs_acquire
+                0x000029a8       0x3c _build/nrf52832_xxaa/nrfx_prs.c.o
+                0x000029a8                nrfx_prs_acquire
+ .text.exit     0x000029e4       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                0x000029e4                exit
+ .text.__libc_init_array
+                0x00002a04       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                0x00002a04                __libc_init_array
+ .text          0x00002a54      0x134 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+                0x00002a54                memcpy
+ .text.memset   0x00002b88       0x9c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                0x00002b88                memset
+ .text.startup.register_fini
+                0x00002c24       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00002c38       0xe8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x00002c38                __call_exitprocs
+ .text.atexit   0x00002d20        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                0x00002d20                atexit
+ .text.__libc_fini_array
+                0x00002d2c       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                0x00002d2c                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x00002d60        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00002d60                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00002d64        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x00002d64                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x00002d68       0xc4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                0x00002d68                __register_exitproc
+ .text._exit    0x00002e2c        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x00002e2c                _exit
+ *(.init)
+ .init          0x00002e30        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00002e30                _init
+ .init          0x00002e34        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini)
+ .fini          0x00002e3c        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00002e3c                _fini
+ .fini          0x00002e40        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.m_twi  0x00002e48       0x10 _build/nrf52832_xxaa/main.c.o
+ .rodata        0x00002e58        0x6 _build/nrf52832_xxaa/clocks.c.o
+ *fill*         0x00002e5e        0x2 
+ .rodata.rtc    0x00002e60        0x8 _build/nrf52832_xxaa/clocks.c.o
+                0x00002e60                rtc
+ .rodata        0x00002e68       0x10 _build/nrf52832_xxaa/mesh.c.o
+ .rodata        0x00002e78        0x9 _build/nrf52832_xxaa/battery.c.o
+ *fill*         0x00002e81        0x3 
+ .rodata.default_config.8410
+                0x00002e84        0x4 _build/nrf52832_xxaa/battery.c.o
+ .rodata.pwr_mgmt_data
+                0x00002e88        0xc _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ *fill*         0x00002e94        0xc 
+ .rodata.delay_bytecode.7762
+                0x00002ea0        0x6 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ *fill*         0x00002ea6        0x2 
+ .rodata._global_impure_ptr
+                0x00002ea8        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                0x00002ea8                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x00002eac        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x00002eac        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.glue_7         0x00002eb0        0x0
+ .glue_7        0x00002eb0        0x0 linker stubs
+
+.glue_7t        0x00002eb0        0x0
+ .glue_7t       0x00002eb0        0x0 linker stubs
+
+.vfp11_veneer   0x00002eb0        0x0
+ .vfp11_veneer  0x00002eb0        0x0 linker stubs
+
+.v4_bx          0x00002eb0        0x0
+ .v4_bx         0x00002eb0        0x0 linker stubs
+
+.iplt           0x00002eb0        0x0
+ .iplt          0x00002eb0        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.mem_section_dummy_rom
+
+.pwr_mgmt_data  0x00002eb0        0x0
+                0x00002eb0                PROVIDE (__start_pwr_mgmt_data, .)
+ *(SORT(.pwr_mgmt_data*))
+                0x00002eb0                PROVIDE (__stop_pwr_mgmt_data, .)
+
+.log_const_data
+                0x00002eb0        0x0
+                [!provide]                PROVIDE (__start_log_const_data, .)
+ *(SORT(.log_const_data*))
+                [!provide]                PROVIDE (__stop_log_const_data, .)
+
+.nrf_balloc     0x00002eb0        0x0
+                [!provide]                PROVIDE (__start_nrf_balloc, .)
+ *(.nrf_balloc)
+                [!provide]                PROVIDE (__stop_nrf_balloc, .)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00002eb0                __exidx_start = .
+
+.ARM.exidx      0x00002eb0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00002eb0        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00002eb8                __exidx_end = .
+                0x00002eb8                __etext = .
+
+.rel.dyn        0x00002eb8        0x0
+ .rel.iplt      0x00002eb8        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.data           0x20000000      0x4fc load address 0x00002eb8
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.send.8732
+                0x20000000        0x1 _build/nrf52832_xxaa/clocks.c.o
+ .data.g_ttl    0x20000001        0x1 _build/nrf52832_xxaa/mesh.c.o
+ *fill*         0x20000002        0x2 
+ .data.nrf_esb_config
+                0x20000004       0x18 _build/nrf52832_xxaa/mesh.c.o
+ .data.tx_payload
+                0x2000001c       0x87 _build/nrf52832_xxaa/mesh.c.o
+ *fill*         0x200000a3        0x1 
+ .data.m_batt_lvl_in_milli_volts
+                0x200000a4        0x2 _build/nrf52832_xxaa/battery.c.o
+ *fill*         0x200000a6        0x2 
+ .data.m_esb_addr
+                0x200000a8       0x14 _build/nrf52832_xxaa/nrf_esb.c.o
+ .data.SystemCoreClock
+                0x200000bc        0x4 _build/nrf52832_xxaa/system_nrf52.c.o
+                0x200000bc                SystemCoreClock
+ .data.impure_data
+                0x200000c0      0x428 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x200004e8        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x200004e8                __atexit_recursive_mutex
+                0x200004ec                . = ALIGN (0x4)
+                0x200004ec                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x200004ec                PROVIDE (__preinit_array_end, .)
+                0x200004ec                . = ALIGN (0x4)
+                0x200004ec                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x200004ec        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x200004f0        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x200004f4                PROVIDE (__init_array_end, .)
+                0x200004f4                . = ALIGN (0x4)
+                0x200004f4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x200004f4        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x200004f8                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x200004f8        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .jcr           0x200004f8        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+                0x200004fc                . = ALIGN (0x4)
+                0x200004fc                __data_end__ = .
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD _build/nrf52832_xxaa/main.c.o
+LOAD _build/nrf52832_xxaa/clocks.c.o
+LOAD _build/nrf52832_xxaa/twi.c.o
+LOAD _build/nrf52832_xxaa/mesh.c.o
+LOAD _build/nrf52832_xxaa/battery.c.o
+LOAD _build/nrf52832_xxaa/si1133.c.o
+LOAD _build/nrf52832_xxaa/veml6030.c.o
+LOAD _build/nrf52832_xxaa/boards.c.o
+LOAD _build/nrf52832_xxaa/nrf_fprintf.c.o
+LOAD _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+LOAD _build/nrf52832_xxaa/app_error.c.o
+LOAD _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+LOAD _build/nrf52832_xxaa/app_error_weak.c.o
+LOAD _build/nrf52832_xxaa/app_util_platform.c.o
+LOAD _build/nrf52832_xxaa/nrf_assert.c.o
+LOAD _build/nrf52832_xxaa/nrf_atomic.c.o
+LOAD _build/nrf52832_xxaa/nrf_balloc.c.o
+LOAD _build/nrf52832_xxaa/nrf_memobj.c.o
+LOAD _build/nrf52832_xxaa/nrf_log_frontend.c.o
+LOAD _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+LOAD _build/nrf52832_xxaa/nrf_log_default_backends.c.o
+LOAD _build/nrf52832_xxaa/nrf_log_backend_serial.c.o
+LOAD _build/nrf52832_xxaa/nrf_log_backend_uart.c.o
+LOAD _build/nrf52832_xxaa/nrf_section_iter.c.o
+LOAD _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+LOAD _build/nrf52832_xxaa/nrf_strerror.c.o
+LOAD _build/nrf52832_xxaa/nrf_esb.c.o
+LOAD _build/nrf52832_xxaa/nrf_drv_twi.c.o
+LOAD _build/nrf52832_xxaa/nrf_drv_clock.c.o
+LOAD _build/nrf52832_xxaa/system_nrf52.c.o
+LOAD _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+LOAD _build/nrf52832_xxaa/nrfx_uart.c.o
+LOAD _build/nrf52832_xxaa/nrfx_uarte.c.o
+LOAD _build/nrf52832_xxaa/nrfx_twim.c.o
+LOAD _build/nrf52832_xxaa/nrfx_clock.c.o
+LOAD _build/nrf52832_xxaa/nrfx_rtc.c.o
+LOAD _build/nrf52832_xxaa/nrfx_saadc.c.o
+LOAD _build/nrf52832_xxaa/nrfx_prs.c.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
+END GROUP
+
+.igot.plt       0x200004fc        0x0 load address 0x000033b4
+ .igot.plt      0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x200004fc                . = ALIGN (0x4)
+
+.mem_section_dummy_ram
+
+.log_dynamic_data
+                0x200004fc        0x0
+                [!provide]                PROVIDE (__start_log_dynamic_data, .)
+ *(SORT(.log_dynamic_data*))
+                [!provide]                PROVIDE (__stop_log_dynamic_data, .)
+
+.bss            0x200004fc     0x2168 load address 0x000033b4
+                0x200004fc                . = ALIGN (0x4)
+                0x200004fc                __bss_start__ = .
+ *(.bss*)
+ .bss           0x200004fc       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss.cycle_count
+                0x20000518        0x1 _build/nrf52832_xxaa/main.c.o
+                0x20000518                cycle_count
+ *fill*         0x20000519        0x3 
+ .bss.m_app_rtc_handler
+                0x2000051c        0x4 _build/nrf52832_xxaa/clocks.c.o
+ .bss.p_twi     0x20000520        0x4 _build/nrf52832_xxaa/twi.c.o
+ .bss.esb_completed
+                0x20000524        0x1 _build/nrf52832_xxaa/mesh.c.o
+ .bss.esb_tx_complete
+                0x20000525        0x1 _build/nrf52832_xxaa/mesh.c.o
+ *fill*         0x20000526        0x2 
+ .bss.live_count.8991
+                0x20000528        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .bss.m_app_cmd_handler
+                0x2000052c        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .bss.m_app_rf_handler
+                0x20000530        0x4 _build/nrf52832_xxaa/mesh.c.o
+ .bss.adc_buf   0x20000534        0x2 _build/nrf52832_xxaa/battery.c.o
+ .bss.status_done
+                0x20000536        0x1 _build/nrf52832_xxaa/battery.c.o
+ *fill*         0x20000537        0x1 
+ .bss.m_in_critical_region
+                0x20000538        0x4 _build/nrf52832_xxaa/app_util_platform.c.o
+ .bss.m_handlers_iter
+                0x2000053c        0x8 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .bss.m_shutdown_started
+                0x20000544        0x1 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ *fill*         0x20000545        0x3 
+ .bss.m_sysoff_mtx
+                0x20000548        0x4 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .bss.m_config_local
+                0x2000054c       0x18 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_esb_initialized
+                0x20000564        0x1 _build/nrf52832_xxaa/nrf_esb.c.o
+ *fill*         0x20000565        0x3 
+ .bss.m_event_handler
+                0x20000568        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_interrupt_flags
+                0x2000056c        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_last_tx_attempts
+                0x20000570        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_nrf_esb_mainstate
+                0x20000574        0x1 _build/nrf52832_xxaa/nrf_esb.c.o
+ *fill*         0x20000575        0x3 
+ .bss.m_rx_fifo
+                0x20000578       0xd4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_rx_fifo_payload
+                0x2000064c     0x1a5e _build/nrf52832_xxaa/nrf_esb.c.o
+ *fill*         0x200020aa        0x2 
+ .bss.m_tx_fifo
+                0x200020ac       0x2c _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_tx_fifo_payload
+                0x200020d8      0x438 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_tx_payload_buffer
+                0x20002510       0x84 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_wait_for_ack_timeout_us
+                0x20002594        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.mp_current_payload
+                0x20002598        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.on_radio_disabled
+                0x2000259c        0x4 _build/nrf52832_xxaa/nrf_esb.c.o
+ .bss.m_contexts
+                0x200025a0        0x8 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .bss.m_handlers
+                0x200025a8        0x8 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .bss.m_clock_cb
+                0x200025b0       0x14 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .bss.m_cb      0x200025c4       0x34 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .bss.m_clock_cb
+                0x200025f8        0x8 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .bss.m_cb      0x20002600        0x3 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ *fill*         0x20002603        0x1 
+ .bss.m_handlers
+                0x20002604        0x4 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .bss.m_cb      0x20002608       0x30 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .bss.m_prs_box_4
+                0x20002638        0x8 _build/nrf52832_xxaa/nrfx_prs.c.o
+ *(COMMON)
+ COMMON         0x20002640       0x21 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+                0x20002640                __lock___atexit_recursive_mutex
+                0x20002644                __lock___arc4random_mutex
+                0x20002648                __lock___env_recursive_mutex
+                0x2000264c                __lock___sinit_recursive_mutex
+                0x20002650                __lock___malloc_recursive_mutex
+                0x20002654                __lock___at_quick_exit_mutex
+                0x20002658                __lock___dd_hash_mutex
+                0x2000265c                __lock___tz_mutex
+                0x20002660                __lock___sfp_recursive_mutex
+                0x20002664                . = ALIGN (0x4)
+ *fill*         0x20002661        0x3 
+                0x20002664                __bss_end__ = .
+
+.heap           0x20002668     0x2000
+                0x20002668                __HeapBase = .
+                0x20002668                __end__ = .
+                0x20002668                PROVIDE (end, .)
+ *(.heap*)
+ .heap          0x20002668     0x2000 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+                0x20004668                __HeapLimit = .
+
+.stack_dummy    0x20002668     0x2000
+ *(.stack*)
+ .stack         0x20002668     0x2000 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+                0x20010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x2000e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20010000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x000004fc                DataInitFlashUsed = (__bss_start__ - __data_start__)
+                0x00002eb8                CodeFlashUsed = (__etext - ORIGIN (FLASH))
+                0x000033b4                TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x00000001                ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
+OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x39 _build/nrf52832_xxaa/main.c.o
+ .ARM.attributes
+                0x000000af       0x39 _build/nrf52832_xxaa/clocks.c.o
+ .ARM.attributes
+                0x000000e8       0x39 _build/nrf52832_xxaa/twi.c.o
+ .ARM.attributes
+                0x00000121       0x39 _build/nrf52832_xxaa/mesh.c.o
+ .ARM.attributes
+                0x0000015a       0x39 _build/nrf52832_xxaa/battery.c.o
+ .ARM.attributes
+                0x00000193       0x39 _build/nrf52832_xxaa/app_error.c.o
+ .ARM.attributes
+                0x000001cc       0x39 _build/nrf52832_xxaa/app_error_weak.c.o
+ .ARM.attributes
+                0x00000205       0x39 _build/nrf52832_xxaa/app_util_platform.c.o
+ .ARM.attributes
+                0x0000023e       0x39 _build/nrf52832_xxaa/nrf_section_iter.c.o
+ .ARM.attributes
+                0x00000277       0x39 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .ARM.attributes
+                0x000002b0       0x39 _build/nrf52832_xxaa/nrf_esb.c.o
+ .ARM.attributes
+                0x000002e9       0x39 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .ARM.attributes
+                0x00000322       0x39 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .ARM.attributes
+                0x0000035b       0x39 _build/nrf52832_xxaa/system_nrf52.c.o
+ .ARM.attributes
+                0x00000394       0x20 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+ .ARM.attributes
+                0x000003b4       0x39 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .ARM.attributes
+                0x000003ed       0x39 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .ARM.attributes
+                0x00000426       0x39 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .ARM.attributes
+                0x0000045f       0x39 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .ARM.attributes
+                0x00000498       0x39 _build/nrf52832_xxaa/nrfx_prs.c.o
+ .ARM.attributes
+                0x000004d1       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000505       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000539       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000056d       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000058d       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000005c1       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000005f5       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000629       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000065d       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000691       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000006c5       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000006f9       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x0000072d       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f _build/nrf52832_xxaa/main.c.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/clocks.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/twi.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/mesh.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/battery.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/app_error.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/app_error_weak.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/app_util_platform.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrf_section_iter.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrf_pwr_mgmt.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrf_esb.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrf_drv_twi.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrf_drv_clock.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/system_nrf52.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_twim.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_clock.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_rtc.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_prs.c.o
+
+.debug_line     0x00000000       0x95
+ .debug_line    0x00000000       0x95 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+
+.debug_info     0x00000000       0xd1
+ .debug_info    0x00000000       0xd1 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+
+.debug_abbrev   0x00000000       0x14
+ .debug_abbrev  0x00000000       0x14 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+
+.debug_aranges  0x00000000       0x20
+ .debug_aranges
+                0x00000000       0x20 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+
+.debug_frame    0x00000000      0x23c
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000088       0x5c c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000000e4       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000104       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000138       0xb0 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-lock.o)
+ .debug_frame   0x000001e8       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000021c       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)

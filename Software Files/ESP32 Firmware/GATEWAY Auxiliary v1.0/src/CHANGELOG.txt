@@ -1,0 +1,12 @@
+CHANGELOG FOR WMNS (GATEWAY AUXILIARY-ESP32) FIRMWARE SINCE Q3 2021 [DEPLOYMENT PHASE]
+
+
+
+v1.0 (30/8/21)
+Initial.
+
+v1.1 (31/8/21)
+Changed hostname from default to "WMNS GATEWAY AUX".
+
+v1.2 (16/9/21)
+Stability update.

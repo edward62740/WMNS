@@ -1,0 +1,45 @@
+***FW SPECIFIC DATA TXN INTERVALS***
+tx one pid means others will not be. lowest tx rate packet gets priority.
+GPSN (Environment)
+> MESH_PID_ENV           30s
+> MESH_PID_ALIVE         5m
+> MESH_PID_BATTERY       30m
+> MESH_PID_RESET         -
+
+GPSN (Motion)
+> MESH_PID_MOTION        trigd
+> MESH_PID_ALIVE         5m
+> MESH_PID_BATTERY       30m
+> MESH_PID_RESET         -
+
+GPSN (VOC)
+> MESH_PID_VOC           30s
+> MESH_PID_ALIVE         5m
+> MESH_PID_BATTERY       30m
+> MESH_PID_RESET         -
+
+LRSN (Detector)
+> MESH_PID_RANGE         trigd
+> MESH_PID_ALIVE         5m (NOT IMPLEMENTED)
+> MESH_PID_BATTERY       30m
+> MESH_PID_RESET         -
+
+CO2SN (CO2)
+> MESH_PID_CO2           5m
+> MESH_PID_ALIVE         5m
+> MESH_PID_BATTERY       30m
+> MESH_PID_RESET         -
+
+ALSN (ALS)
+> MESH_PID_ALS           30s
+> MESH_PID_ALIVE         5m
+> MESH_PID_BATTERY       30m
+> MESH_PID_RESET         -
+
+ROUTER (ROUTER32PA)
+> MESH_PID_ALIVE         30s
+> MESH_PID_RESET         -
+
+GATEWAY (GATEWAY)
+> MESH_PID_ALIVE         30s
+> MESH_PID_RESET         -
