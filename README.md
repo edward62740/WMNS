@@ -9,17 +9,17 @@ Gateways are similar to routers and forward mesh network data to a server/cloud.
 End devices are low-power nodes that sleep for most of the time, periodically transmitting data.
 
 Currently, the following data is collected by the system through multiple sensor types:
-*Temperature
-*Relative humidity
+* Temperature
+* Relative humidity
 *Barometric pressure
-*Illuminance
-*UV levels
-*Sudden/discontinous motion
-*Person counter
-*CO2 concentration
-*VOC concentration
-*Battery levels
-*Signal strength
+* Illuminance
+* UV levels
+* Sudden/discontinous motion
+* Person counter
+* CO2 concentration
+* VOC concentration
+* Battery levels
+* Signal strength
 
 The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years.
 
