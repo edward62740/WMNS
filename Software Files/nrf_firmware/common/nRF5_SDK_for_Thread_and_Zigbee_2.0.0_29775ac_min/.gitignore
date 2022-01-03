@@ -1,0 +1,9 @@
+*.a
+*.o
+*.lib
+*.msi
+*.hex
+*.doc
+*.pdf
+*.exe
+*.jar

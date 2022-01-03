@@ -1,0 +1,30 @@
+CHANGELOG FOR WMNS (GATEWAY-ESP32) FIRMWARE SINCE Q3 2021 [DEPLOYMENT PHASE]
+
+
+
+v2.1 (26/6/21)
+CHANGED TO RTOS-BASED SYSTEM FROM v1.
+
+v2.2 (2/7/2021)
+Added intrusion detection function.
+Added self data logging on influxdb.
+Modified data structs.
+
+v2.3 (7/7/2021)
+Changed alive packet to show uptime hrs.
+
+v2.4 (14/7/2021)
+Added boot screen.
+Organized code.
+Added reset packet reason logging wrt WMNS v2.0.2.
+
+v2.5 (28/07/2021)
+Added ALSN and modified CO2SN, VOC and DET parameters.
+Changed scandevices() to run periodically 
+
+v2.6 ()
+Added communication protocol with GATEWAY Auxiliary.
+
+v2.7 (30/12/2021)
+Added LTSN.
+Bug fixes.

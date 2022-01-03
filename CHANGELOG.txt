@@ -1,0 +1,57 @@
+CHANGELOG FOR WMNS (nRF) FIRMWARE SINCE Q3 2021 [DEPLOYMENT PHASE]
+
+v1
+UNDOCUMENTED; FIRST REVISION OF FIRMWARE
+
+v2.0.1 (15/6/2021)
+Added (CO2SN, ALSN) firmware packages, associated board definitions and associated drivers (SCD41_API, lps22hb, si1133, veml6030).
+
+v2.0.2 (29/6/2021)
+Modified (CO2SN, ALSN) firmware packages
+Cleaned unused/dereferenced.
+Changed (ROUTER32PA) alive packet display tx power to 22dBm.
+Added reset reason feature to mesh reset packet.
+Changed mesh unicast packet function name to mesh_ucast_data().
+Changed (GATEWAY) mesh tx power value to 4dBm.
+
+v2.0.3 (8/7/2021)
+Enabled mesh cmd function in (GATEWAY) firmware package.
+
+v2.0.4 (14/7/2021)
+Disabled (ROUTER32PA) rf-to-serial function.
+Changed PID RESET printf value.
+
+v2.0.5 (22/7/2021)
+Deleted BME680 API packages.
+Deleted (GPSN) airquality firmware, superceded by (GPSN) aqi firmware.
+Added sleep mode function and corrections to drivers (bme680).
+Modified delay functions in SCD41_API.
+
+v2.0.6 (26/7/2021)
+Added (CO2SN) battery voltage monitor.
+Added (LRSN) continuous triggering workaround.
+Modified (LRSN) packet to transmit warning byte to indicate continuous triggering.
+Moved pin name declaration to board definition files.
+Imported GATEWAY InfluxDB v2.4 firmware files into {root}/Software Files \.
+Refactored (GPSN) iaq firmware to "voc".
+
+v2.0.7 (02/8/2021)
+Added TERMINAL v2.sch/.brd to {root}/PCB Files/Terminal \.
+Added TERMINAL v1.0 to {root}/Software Files \.
+
+v2.0.8 (14/8/2021)
+Added reinitialization for bme280 to reduce power consumption of (GPSN) environment.
+Added reinitialization for bme680 to reduce power consumption of (GPSN) voc.
+Added intervals.txt to {root}/Software Files/nrf_firmware \.
+Refactored (ALSN) alsn firmware to "als".
+Moved Gateway_Firebase_v3, Gateway_Firmware_v1.4, Gateway_InfluxDB from {root}/Software Files \ to {root}/Software Files/Depreciated \.
+Moved GATEWAY InfluxDB v2.5, TERMINAL v1.0 from {root}/Software Files \ to {root}/Software Files/ESP32 Firmware \.
+Modified all devices MESH_PID_xxxx intervals per {root}/Software Files/nrf_firmware/intervals.txt \.
+
+v3.0.0
+Changed g_ttl to 3.
+Finalized all firmware to intervals.txt.
+Changed RF channel from 14 to 50.
+
+v3.0.1 (1/1/2022)
+Added (LTSN) branch.
