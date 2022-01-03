@@ -1,34 +1,26 @@
 # Mesh Firmware
-Currently UNDER DEVELOPMENT.
 
-This is a wireless mesh network system which integrates smart home/industry sensing, tracking and security into a single network.
+This is a wireless sensor network system as a section of a larger project for smart home sensing and security. This section provides real-time data collection of various data types (see below).
+The data is collected in InfluxDB and can be viewed graphically in Grafana.
 
-The wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).
+This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).
 Routers retransmit received data to form the backbone of the network.
 Gateways are similar to routers and forward mesh network data to a server/cloud.
 End devices are low-power nodes that sleep for most of the time, periodically transmitting data.
 
-![alt text](https://github.com/edward62740/Mesh-Firmware/blob/master/docu/meshsensorspartial.jpeg?raw=true)
+Currently, the following data is collected by the system through multiple sensor types:
+Temperature
+Relative humidity
+Barometric pressure
+Illuminance
+UV levels
+Sudden/discontinous motion
+Person counter
+CO2 concentration
+VOC concentration
+Battery levels
+Signal strength
 
-This project involves the design of several hardware devices (https://github.com/edward62740/Mesh-Hardware.git), as well as firmware. It is important to note that each hardware device may be compatible with one or more firmware types.
-
-![alt text](https://github.com/edward62740/Mesh-Firmware/blob/master/docu/meshnetwork.jpg?raw=true)
-
-# Compatibility Matrix
-y-axis is the HARDWARE DEVICE, x-axis is the FIRMWARE TYPE. if compatible, node type is shown.
-It is recommended to use the highlighted combination where possible.
-|            | Environment | Motion | Airquality | Ranger | Proximity | Gateway | Router | Controller |
-|------------|-------------|--------|------------|--------|-----------|---------|--------|------------|
-| GPSN       |     LP      |   LP   |     LP     |        |           |         |        |            |
-| LRSN       |             |        |            |   LP   |    LP     |         |        |            |
-| Gateway    |             |        |            |        |           |    GT   |        |            |
-| Router     |             |        |            |        |           |         |    R   |            |
-| Controller |             |        |            |        |           |         |        |     AP     |
-
-# Completion % Sept 2020
-|            | Environment | Motion | Airquality | Ranger | Proximity | Gateway | Router | Controller |
-|------------|-------------|--------|------------|--------|-----------|---------|--------|------------|
-|            |     100     |   100  |    DEPR    |   60   |    30     |   100   |   95   |     50     |
-
+The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years.
 
 Released under the GPL-3.0 License
