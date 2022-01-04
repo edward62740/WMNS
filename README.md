@@ -1,6 +1,6 @@
 # Mesh Firmware
 
-This is a wireless sensor network system as a section of a larger project for smart home sensing and security. This section provides real-time data collection of various data types (see below).
+This is a wireless sensor network system as a section of a larger project for smart home sensing and security, to provide real-time data collection of various data types (see below).
 The data is collected in InfluxDB and can be viewed graphically in Grafana.
 
 This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).
@@ -22,5 +22,6 @@ Currently, the following data is collected by the system through multiple sensor
 * Signal strength
 
 The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years.
+
 
 Released under the GPL-3.0 License
