@@ -6,7 +6,7 @@
 This is a wireless sensor network system as a section of a larger project for smart home sensing and security, to provide real-time data collection of various data types (see below).
 The data is collected in InfluxDB and can be viewed graphically in Grafana.
 
-
+\
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/network.png "Mesh Devices")
 
 This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).
