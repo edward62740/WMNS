@@ -1,4 +1,4 @@
-# Mesh Firmware
+# Wireless Mesh Network System
 
 
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/mesh.png "Mesh Devices")
