@@ -30,4 +30,4 @@ Currently, the following data is collected by the system through multiple sensor
 The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years.
 
 
-Released under the GPL-3.0 License
+Released under the GPL-2.0 License
