@@ -32,5 +32,14 @@ Currently, the following data is collected by the system through multiple sensor
 
 The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years.
 
+## Devices
 
+GPSN             |  LRSN      |  CO2SN  | ALSN
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/gpsn.png" alt="GPSN" width="200"/><br />General-purpose configurable sensor for: temperature, humidity, air pressure, light, VOCs, motion|<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/lrsn.jpeg" alt="LRSN" width="200"/><br />Person counter sensor |  <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/co2sn.jpeg" alt="CO2SN" width="200"/><br />Carbon dioxide concentration sensor | <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/alsn.jpeg" alt="ALSN" width="200"/><br />Specialized light sensor for visible, UV, IR
+
+GATEWAY             |  ROUTER32PA      |  ROUTER40  
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/gateway.jpeg" alt="GATEWAY" width="300"/><br />Internet gateway node  |<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/router32pa.jpeg" alt="ROUTER32PA" width="250"/><br />Power amplified router node |  <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/router40.jpeg" alt="ROUTER40" width="250"/><br />USB-powered router node
+ 
 Released under the GPL-2.0 License
