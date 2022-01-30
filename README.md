@@ -3,12 +3,14 @@
 
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/mesh.png "Mesh Devices")
 
+## Overview
+
 This is a wireless sensor network system as a section of a larger project for smart home sensing and security, to provide real-time data collection of various data types (see below).
 The data is collected in InfluxDB and can be viewed graphically in Grafana.
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/graph.jpg "Grafana")
 
 
-
+## Network Structure
 This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).\
 Routers retransmit received data to form the backbone of the network.\
 Gateways are similar to routers and forward mesh network data to a server/cloud.\
@@ -17,6 +19,8 @@ End devices are low-power nodes that sleep for most of the time, periodically tr
 
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/network.png "Mesh Devices")
 
+
+## Measured data
 Currently, the following data is collected by the system through multiple sensor types (sensors in brackets, not necessarily utilized as such):
 * Temperature (BME280, BME680, Si7021, SCD41, BMA400, mcu_internal)
 * Relative humidity (BME280, BME680, Si7021, SCD41)
