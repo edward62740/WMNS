@@ -17,18 +17,18 @@ End devices are low-power nodes that sleep for most of the time, periodically tr
 
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/network.png "Mesh Devices")
 
-Currently, the following data is collected by the system through multiple sensor types:
-* Temperature
-* Relative humidity
-* Barometric pressure
-* Illuminance
-* UV levels
-* Sudden/discontinous motion
-* Person counter
-* CO2 concentration
-* VOC concentration
-* Battery levels
-* Signal strength
+Currently, the following data is collected by the system through multiple sensor types (sensors in brackets, not necessarily utilized as such):
+* Temperature (BME280, BME680, Si7021, SCD41, BMA400, mcu_internal)
+* Relative humidity (BME280, BME680, Si7021, SCD41)
+* Barometric pressure (BME280, BME680)
+* Illuminance (OPT3001, VEML6030, Si1133./5)
+* UV levels (Si1133/5)
+* Sudden/discontinous motion (BMA400)
+* Person counter (VL53L1X)
+* CO2 concentration (SCD41)
+* VOC concentration (BME680)
+* Battery levels (ADC)
+* Signal strength (radio)
 
 The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years (excl. CO2SN - 4 months, rechargable).
 
