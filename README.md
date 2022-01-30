@@ -30,7 +30,7 @@ Currently, the following data is collected by the system through multiple sensor
 * Battery levels
 * Signal strength
 
-The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years.
+The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years (excl. CO2SN - 4 months, rechargable).
 
 ## Devices
 
