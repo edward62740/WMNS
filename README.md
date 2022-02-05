@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is a wireless sensor network system as a section of a larger project for smart home sensing and security, to provide real-time data collection of various data types (see below).
+This is a wireless sensor network system as a part of an ongoing project for smart home sensing and security, to provide real-time data collection of various data types (see below). 
 The data is collected in InfluxDB and can be viewed graphically in Grafana.
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/graph.jpg "Grafana")
 
