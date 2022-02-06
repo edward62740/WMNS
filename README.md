@@ -1,11 +1,11 @@
-# Wireless Mesh Network System
+# Wireless Mesh Network System (WMNS)
 
 
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/mesh.png "Mesh Devices")
 
 ## Overview
 
-This is a wireless sensor network system as a part of an ongoing project for smart home sensing and security, to provide real-time data collection of various data types (see below). 
+This is a wireless sensor network system as a part of an ongoing project for smart home sensing and security. The intent is to create easily deployable, low-maintenance (thereby low-power) sensors for real-time collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years off a CR2032 (excl. CO2SN - 4 months, Li-ion).
 The data is collected in InfluxDB and can be viewed graphically in Grafana.
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/graph.jpg "Grafana")
 
@@ -34,7 +34,6 @@ Currently, the following data is collected by the system through multiple sensor
 * Battery levels (ADC)
 * Signal strength (radio)
 
-The focus of this project is to create easily deployable, low-maintenance (thereby low-power) sensors for collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years (excl. CO2SN - 4 months, rechargable).
 
 ## Devices
 
@@ -46,7 +45,22 @@ GATEWAY             |  ROUTER32PA      |  ROUTER40  | LTSN | TERMINAL
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/gateway.png" alt="GATEWAY" width="150"/><br />Internet gateway node  |<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/router32pa.png" alt="ROUTER32PA" width="150"/><br />Power amplified router node |  <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/router40.png" alt="ROUTER40" width="150"/><br />USB-powered router node |<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/ltsn.png" alt="LTSN" width="150"/><br />Specialized temp sensor for sub-zero|<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/terminal.png" alt="TERMINAL" width="150"/><br />redacted for security reasons
 
+## Performance
 
-Preliminary.
+The following performance factors were considered during the design of the WMNS:
+* Low maintenance - essentially long battery life and reliability
+</br> _Low power circuit and software design from bottom up. Certain sensors (i.e those expected to face harsher conditions) are conformally coated to increase reliability._
+</br> _Network has no central "coordinator" type node which is required to sustain the network. Packets can take multiple paths to the gateway. Gateways can be configured as redundancies._
+* Ease of use - able to easily add more sensors (and more types), and modify configurations.
+</br> _Easy plug-and-play to add more sensors. Only the gateway needs modifications to add new sensor types (for database side processing)._
+</br> _Sensors can easily be configured for different sample rates._
+* Range - good wireless range vs power consumption compromise
+</br> _Tuned internal antennas allow for lower tx power (and less power consumption)._ 
+</br><img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/gpsntune.PNG" alt="GPSN Return Loss" width="400"/>
+* Low-cost - cheap sensors
+</br> _Runs off comparatively low-cost and widely used nRF52 series SoCs. Same design template was used across sensors to drop development time and costs._
+</br> _No protocol overhead or IP costs involved._
+
+Preliminary. CAA 060222
 
 Released under the GPL-2.0 License
