@@ -61,6 +61,8 @@ The following performance factors were considered during the design of the WMNS:
 </br> _Runs off comparatively low-cost and widely used nRF52 series SoCs. Same design template was used across sensors to drop development time and costs._
 </br> _No protocol overhead or IP costs involved._
 
+This system has been deployed in stages since Q1 21 with zero system failures (e.g gateway restarts, sensor malfunctions and drops out of network, hardware failure..)
+
 Preliminary. CAA 060222
 
 Released under the GPL-2.0 License
