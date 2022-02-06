@@ -61,8 +61,15 @@ The following performance factors were considered during the design of the WMNS:
 </br> _Runs off comparatively low-cost and widely used nRF52 series SoCs. Same design template was used across sensors to drop development time and costs._
 </br> _No protocol overhead or IP costs involved._
 
-This system has been deployed in stages since Q1 21 with zero system failures (e.g gateway restarts, sensor malfunctions and drops out of network, hardware failure..).
-Total deployed devices: 28
+## Deployment
+
+This system has been deployed in stages since Q1 21 with zero system failures (e.g gateway restarts, sensor malfunctions and drops out of network, hardware failure).
+</br><img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deployment.png" alt="Gateway Deployment v3.0.1" width="350"/>
+<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentco2sn.jpeg" alt="CO2SN Deployment v3.0.1" width="200"/>
+<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentgpsn.jpeg" alt="GPSN Deployment v3.0.1" width="200"/>
+<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentltsn.jpeg" alt="LTSN Deployment v3.0.1" width="200"/>
+</br>
+*Deployed devices: 28*
 
 Preliminary. CAA 060222
 
