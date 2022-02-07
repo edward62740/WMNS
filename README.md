@@ -69,8 +69,8 @@ This system has been deployed in stages since Q1 21 with zero system failures (e
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentgpsn.jpeg" alt="GPSN Deployment v3.0.1" width="200"/>
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentltsn.jpeg" alt="LTSN Deployment v3.0.1" width="200"/>
 </br>
-*Deployed devices: 28*
+Deployed devices: 28
 
-Preliminary. CAA 060222
+Preliminary. CAA 070222
 
 Released under the GPL-2.0 License
