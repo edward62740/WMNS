@@ -35,8 +35,7 @@ Currently, the following data is collected by the system through multiple sensor
 * Signal strength (radio)
 
 
-## Devices
-
+## Custom Hardware Devices
 GPSN             |  LRSN      |  CO2SN  | ALSN
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/gpsn.png" alt="GPSN" width="200"/><br />General-purpose configurable sensor for: temperature, humidity, air pressure, light, VOCs, motion|<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/lrsn.png" alt="LRSN" width="200"/><br />Person counter sensor |  <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/co2sn.png" alt="CO2SN" width="200"/><br />Carbon dioxide concentration sensor | <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/alsn.png" alt="ALSN" width="200"/><br />Specialized light sensor for visible, UV, IR
