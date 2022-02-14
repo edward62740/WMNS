@@ -50,6 +50,7 @@ The following performance factors were considered during the design of the WMNS:
 * Low maintenance - essentially long battery life and reliability
 </br> _Low power circuit and software design from bottom up. Certain sensors (i.e those expected to face harsher conditions) are conformally coated to increase reliability._
 </br> _Network has no central "coordinator" type node which is required to sustain the network. Packets can take multiple paths to the gateway. Gateways can be configured as redundancies._
+</br> _Connectionless protocol. No risk of runtime disconnections, failed acks etc. Sensors only need initial positioning in an area with good RSSI and reasonable packet loss from multipath fading._
 * Ease of use - able to easily add more sensors (and more types), and modify configurations.
 </br> _Easy plug-and-play to add more sensors. Only the gateway needs modifications to add new sensor types (for database side processing)._
 </br> _Sensors can easily be configured for different sample rates._
