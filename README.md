@@ -25,7 +25,7 @@ Currently, the following data is collected by the system through multiple sensor
 * Temperature (BME280, BME680, Si7021, SCD41, BMA400, mcu_internal)
 * Relative humidity (BME280, BME680, Si7021, SCD41)
 * Barometric pressure (BME280, BME680)
-* Illuminance (OPT3001, VEML6030, Si1133./5)
+* Illuminance (OPT3001, VEML6030, Si1133/5)
 * UV levels (Si1133/5)
 * Sudden/discontinous motion (BMA400)
 * Person counter (VL53L1X)
