@@ -64,7 +64,8 @@ The following performance factors were considered during the design of the WMNS:
 ## Deployment
 
 This system has been deployed in stages since Q1 21 with zero system failures (e.g gateway restarts, sensor malfunctions and drops out of network, hardware failure).
-</br><img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deployment.png" alt="Gateway Deployment v3.0.1" width="350"/>
+</br><img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentgateway.png" alt="Gateway Deployment v3.0.1" width="200"/>
+<img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentterminal.png" alt="Terminal Deployment v3.0.1" width="200"/>
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentco2sn.jpeg" alt="CO2SN Deployment v3.0.1" width="200"/>
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentgpsn.jpeg" alt="GPSN Deployment v3.0.1" width="200"/>
 <img src="https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/deploymentltsn.jpeg" alt="LTSN Deployment v3.0.1" width="200"/>
