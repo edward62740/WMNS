@@ -8,7 +8,7 @@
 This is a wireless sensor network system as a part of an ongoing project for smart home sensing and security. The intent is to create easily deployable, low-maintenance (thereby low-power) sensors for real-time collection of non-sensitive data. The various sensors have a battery life typically between 1-4 years off a CR2032 (excl. CO2SN - 4 months, Li-ion).
 The data is collected in InfluxDB and can be viewed graphically in Grafana.
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/graph.jpg "Grafana")
-
+![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/stats.png "Grafana")
 
 ## Network Structure
 This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).\
