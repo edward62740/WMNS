@@ -347,8 +347,8 @@ void setup()
 
   Serial.begin(UART_BAUDRATE);
   Serial2.begin(UART_BAUDRATE, SERIAL_8N1, UART2_RX, UART2_TX); // initialize comms with nRF52
-  Wire.begin(SDA1, SCL1, I2C_CLK_RATE);                         // initialize I2C for display (I2C0)
-  Wire1.begin(SDA2, SCL2, I2C_CLK_RATE);                        // initialize I2C for RTC and temp/hum sensor
+  Wire.begin(SDA1, SCL1, (uint32_t)I2C_CLK_RATE);                         // initialize I2C for display (I2C0)
+  Wire1.begin(SDA2, SCL2, (uint32_t)I2C_CLK_RATE);                        // initialize I2C for RTC and temp/hum sensor
 
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
