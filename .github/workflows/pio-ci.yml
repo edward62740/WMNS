@@ -3,7 +3,7 @@ name: PIO CI
 
 defaults:
   run:
-    working-directory: Software Files/ESP32 Firmware/GATEWAY InfluxDB v2.7
+    working-directory: Software Files/ESP32 Firmware/
     
 on:
   push:
@@ -29,4 +29,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install platformio
     - name: Build
-      run: platformio run -e esp32dev
+      run: |
+        cd "GATEWAY InfluxDB v2.7"
+        platformio run -e esp32dev
+        cd ..
+        cd "GATEWAY Auxiliary v1.0"
+        platformio run -e esp32dev
+        
