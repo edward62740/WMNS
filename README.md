@@ -78,4 +78,6 @@ _These devices either contribute to the WMNS database or utilize it for their fu
 [IN-16 Display](https://github.com/edward62740/wmns-in16) - IN-16 tubes for displaying database information.<br>
 [E-Paper Display](https://github.com/edward62740/wmns-epd) - Simple Wi-Fi/BLE enabled e-paper display. Designed for displaying real-time sensor data.<br>
 [Lamp](https://github.com/edward62740/wmns-epd) - Mood lamp simulating candle flicker.<br>
-Released under the GPL-2.0 License
+
+<br>
+This repo is released under the GPL-2.0 License. Related repos DO NOT INHERIT licenses.
