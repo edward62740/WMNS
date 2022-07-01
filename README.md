@@ -10,6 +10,13 @@ The data is collected in InfluxDB and can be viewed graphically in Grafana.
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/graph.jpg "Grafana")
 ![alt text](https://github.com/edward62740/Wireless-Mesh-Network-System/blob/master/Documentation/stats.png "Grafana")
 
+## Related Development
+_These devices either contribute to the WMNS database or utilize it for their functions._<br>
+[PMS](https://github.com/edward62740/wmns-pms) - Particulate matter sensor.<br>
+[IN-16 Display](https://github.com/edward62740/wmns-in16) - IN-16 tubes for displaying database information.<br>
+[E-Paper Display](https://github.com/edward62740/wmns-epd) - Simple Wi-Fi/BLE enabled e-paper display. Designed for displaying real-time sensor data.<br>
+[Lamp](https://github.com/edward62740/wmns-epd) - Mood lamp simulating candle flicker.<br>
+
 ## Network Structure
 This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).\
 Routers retransmit received data to form the backbone of the network.\
@@ -72,12 +79,6 @@ This system has been deployed in stages since Q1 21 with zero system failures (e
 </br>
 Deployed devices: 28
 
-## Related Development
-_These devices either contribute to the WMNS database or utilize it for their functions._<br>
-[PMS](https://github.com/edward62740/wmns-pms) - Particulate matter sensor.<br>
-[IN-16 Display](https://github.com/edward62740/wmns-in16) - IN-16 tubes for displaying database information.<br>
-[E-Paper Display](https://github.com/edward62740/wmns-epd) - Simple Wi-Fi/BLE enabled e-paper display. Designed for displaying real-time sensor data.<br>
-[Lamp](https://github.com/edward62740/wmns-epd) - Mood lamp simulating candle flicker.<br>
 
 <br>
 This repo is released under the GPL-2.0 License. Related repos DO NOT INHERIT licenses.
