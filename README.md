@@ -16,6 +16,7 @@ _These devices either contribute to the WMNS database or utilize it for their fu
 [IN-16 Display](https://github.com/edward62740/wmns-in16) - IN-16 tubes for displaying database information.<br>
 [E-Paper Display](https://github.com/edward62740/wmns-epd) - Simple Wi-Fi/BLE enabled e-paper display. Designed for displaying real-time sensor data.<br>
 [Lamp](https://github.com/edward62740/wmns-epd) - Mood lamp simulating candle flicker.<br>
+[Transposer](https://github.com/edward62740/wmns-transposer) - Python script to transfer data from InfluxDB to Firebase RTDB.<br>
 
 ## Network Structure
 This wireless mesh network is a proprietary, decentralized flood type network. The network consists of three distinct node types: routers (R), gateways (GT) and low-power end devices (LP).\
